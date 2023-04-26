@@ -1,0 +1,178 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+    background-color: none;
+}
+
+.knopka {
+    position: flex;
+    width: 100%;
+    padding-left: 1rem;
+    padding-top: 1rem;
+    height: 5%;
+    background-color: #67b3ff;
+}
+.links {
+    position: flex;
+    left: 10%;
+    padding: 0.5rem 5rem;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 1rem;
+    text-decoration: none;
+    color: #ffffff;
+    font-size: medium;
+    background-color: pink;
+}
+
+.icon {
+    position: fixed;
+    text-align: center;
+    left: 50%;
+    padding: 0.5rem 0.5rem;
+    margin-top: -7px;
+    border: 0px solid rgb(255, 255, 255);
+    border-radius: 0.5rem;
+    text-decoration: none;
+    color: #ffffff;
+    font-size: medium;
+    background-color: pink;
+}
+
+.mainblock {
+    /* Group 1 */
+
+position: absolute;
+width: 1733.01px;
+height: 1887.5px;
+left: 0px;
+top: 112px;
+
+
+
+/* Vector 1 */
+
+position: absolute;
+width: 551.45px;
+height: 563.65px;
+left: 2.51px;
+top: 124px;
+
+background: rgba(255, 0, 0, 0.3);
+
+
+/* Vector 2 */
+
+position: absolute;
+width: 1000.5px;
+height: 908.81px;
+left: 4.01px;
+top: 116px;
+
+background: rgba(255, 138, 0, 0.3);
+
+
+/* Vector 3 */
+
+position: absolute;
+width: 1331px;
+height: 1293px;
+left: 7.51px;
+top: 119.5px;
+
+background: rgba(255, 200, 4, 0.3);
+
+
+/* Vector 4 */
+
+position: absolute;
+width: 1624.51px;
+height: 1794.5px;
+left: 0px;
+top: 112px;
+
+background: rgba(255, 245, 0, 0.3);
+
+
+/* Vector 5 */
+
+position: absolute;
+width: 1697.5px;
+height: 1884px;
+left: 31.51px;
+top: 115.5px;
+
+background: rgba(128, 255, 0, 0.3);
+
+
+/* Vector 6 */
+
+position: absolute;
+width: 1518.5px;
+height: 1798.5px;
+left: 210.51px;
+top: 190px;
+
+background: rgba(0, 255, 25, 0.3);
+
+
+/* Vector 7 */
+
+position: absolute;
+width: 1306px;
+height: 1699.43px;
+left: 419.51px;
+top: 300.07px;
+
+background: rgba(0, 178, 255, 0.3);
+
+
+/* Vector 8 */
+
+position: absolute;
+width: 1052px;
+height: 1507.5px;
+left: 677.01px;
+top: 488.5px;
+
+background: rgba(0, 102, 255, 0.3);
+
+
+/* Vector 9 */
+
+position: absolute;
+width: 776px;
+height: 1313.5px;
+left: 949.51px;
+top: 675px;
+
+background: rgba(20, 0, 255, 0.3);
+
+
+/* Vector 11 */
+
+position: absolute;
+width: 253.47px;
+height: 343px;
+left: 1472.04px;
+top: 1653px;
+
+background: rgba(158, 0, 255, 0.3);
+
+
+/* Vector 10 */
+
+position: absolute;
+width: 520.46px;
+height: 1108.5px;
+left: 1212.55px;
+top: 884px;
+
+background: rgba(97, 0, 255, 0.3);
+
+}
